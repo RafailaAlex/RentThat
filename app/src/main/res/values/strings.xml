@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RentThat</string>
+    <string name="api_server_staging">https://serverlic.herokuapp.com/</string>
+    <string-array name="typeSpinner">
+        <item>PARKING</item>
+        <item>INDUSTRIAL</item>
+        <item>COMMERCIAL</item>
+        <item>LIVING</item>
+        <item>OTHER</item>
+    </string-array>
+</resources>
